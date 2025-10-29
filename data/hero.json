@@ -1,0 +1,72 @@
+{
+  "_instructions": "Hero section - your first impression! Customize greeting, name, title, and highlights to showcase your achievements.",
+  "greeting": "Hello, I'm",
+  "name": "Alex Rivera",
+  "title": "Full-Stack Developer & UI/UX Designer",
+  "tagline": "Building digital experiences that inspire and innovate",
+  "summary": "I craft beautiful, functional, and user-centric digital experiences. With 6 years of expertise in React, Node.js, and modern web technologies, I transform complex ideas into elegant solutions that users love.",
+  "highlights": [
+    {
+      "icon": "fas fa-trophy",
+      "text": "25+ Projects Delivered",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-users",
+      "text": "50K+ Users Reached",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-star",
+      "text": "98% Client Satisfaction",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-code",
+      "text": "6 Years Experience",
+      "color": "#A8DADC"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "text": "View My Work",
+        "href": "#projects",
+        "type": "primary",
+        "icon": "fas fa-rocket"
+      },
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "secondary",
+        "icon": "fas fa-paper-plane"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/alexrivera",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/alexrivera-dev",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/alexrivera_dev",
+      "icon": "fab fa-twitter"
+    },
+    {
+      "platform": "Dribbble",
+      "url": "https://dribbble.com/alexrivera",
+      "icon": "fab fa-dribbble"
+    }
+  ],
+  "scrollIndicator": {
+    "text": "Scroll to explore",
+    "icon": "fas fa-chevron-down"
+  }
+}

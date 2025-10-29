@@ -1,0 +1,102 @@
+{
+  "_instructions": "Skills section - organize your technical competencies by category. Add icons to make it visually appealing.",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Frontend Development",
+      "icon": "fas fa-palette",
+      "color": "#FF6B6B",
+      "skills": [
+        "HTML5",
+        "CSS3/SCSS",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React.js",
+        "Vue.js",
+        "Next.js",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Responsive Design",
+        "Web Animations"
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "icon": "fas fa-server",
+      "color": "#4ECDC4",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Django",
+        "FastAPI",
+        "RESTful APIs",
+        "GraphQL",
+        "WebSockets",
+        "Microservices"
+      ]
+    },
+    {
+      "category": "Database & Cloud",
+      "icon": "fas fa-database",
+      "color": "#FFE66D",
+      "skills": [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "AWS",
+        "Google Cloud",
+        "Firebase",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "category": "Tools & Workflow",
+      "icon": "fas fa-tools",
+      "color": "#A8DADC",
+      "skills": [
+        "Git/GitHub",
+        "CI/CD",
+        "Jest/Testing",
+        "Webpack",
+        "Vite",
+        "Agile/Scrum",
+        "Jira",
+        "Figma",
+        "VS Code"
+      ]
+    },
+    {
+      "category": "Design & UI/UX",
+      "icon": "fas fa-pen-nib",
+      "color": "#B19CD9",
+      "skills": [
+        "UI/UX Design",
+        "Figma",
+        "Adobe XD",
+        "Prototyping",
+        "Wireframing",
+        "User Research",
+        "Design Systems",
+        "Accessibility"
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "icon": "fas fa-users",
+      "color": "#FF8B94",
+      "skills": [
+        "Problem Solving",
+        "Team Collaboration",
+        "Communication",
+        "Leadership",
+        "Time Management",
+        "Adaptability",
+        "Mentoring",
+        "Critical Thinking"
+      ]
+    }
+  ]
+}

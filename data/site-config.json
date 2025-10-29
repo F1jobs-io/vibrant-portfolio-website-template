@@ -1,0 +1,13 @@
+{
+  "_instructions": "Configure your site's meta information for SEO and branding. Update title, description, and keywords to match your portfolio.",
+  "title": "Alex Rivera - Creative Developer & Designer",
+  "description": "Full-stack developer and UI/UX designer crafting beautiful digital experiences. Specializing in React, Node.js, and modern web technologies.",
+  "author": "Alex Rivera",
+  "keywords": "portfolio, web developer, designer, creative, projects, frontend, backend, react, nodejs, fullstack",
+  "favicon": "assets/images/favicon.ico",
+  "settings": {
+    "enableAnimations": true,
+    "enableDarkMode": false,
+    "enableParticles": true
+  }
+}

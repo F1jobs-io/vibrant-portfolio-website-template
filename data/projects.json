@@ -1,0 +1,120 @@
+{
+  "_instructions": "Projects section - showcase your best work with descriptions, technologies used, and links to live demos/GitHub repos.",
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform with real-time inventory management, payment integration, and advanced analytics dashboard.",
+      "longDescription": "Built a comprehensive e-commerce solution that handles thousands of transactions daily. Features include product catalog management, shopping cart, secure checkout, order tracking, and admin dashboard.",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe", "AWS"],
+      "icon": "fas fa-shopping-cart",
+      "color": "#FF6B6B",
+      "image": "assets/images/projects/ecommerce.jpg",
+      "links": {
+        "github": "https://github.com/yourusername/ecommerce-platform",
+        "demo": "https://demo.ecommerce-platform.com"
+      },
+      "featured": true,
+      "stats": {
+        "users": "10K+",
+        "performance": "95%",
+        "uptime": "99.9%"
+      }
+    },
+    {
+      "title": "Task Management App",
+      "description": "A collaborative task management application with real-time updates, team workspaces, and productivity analytics.",
+      "longDescription": "Designed and developed a modern task management solution that helps teams stay organized and productive. Features drag-and-drop interface, notifications, file attachments, and team collaboration tools.",
+      "technologies": ["Vue.js", "Firebase", "Vuex", "Tailwind CSS"],
+      "icon": "fas fa-tasks",
+      "color": "#4ECDC4",
+      "image": "assets/images/projects/taskapp.jpg",
+      "links": {
+        "github": "https://github.com/yourusername/task-manager",
+        "demo": "https://demo.taskmanager.com"
+      },
+      "featured": true,
+      "stats": {
+        "users": "5K+",
+        "rating": "4.8/5",
+        "downloads": "15K+"
+      }
+    },
+    {
+      "title": "Social Media Dashboard",
+      "description": "An analytics dashboard for social media managers to track metrics, schedule posts, and analyze engagement across multiple platforms.",
+      "longDescription": "Created a powerful analytics tool that aggregates data from multiple social media platforms. Includes custom reporting, scheduled posting, sentiment analysis, and competitor tracking.",
+      "technologies": ["React", "D3.js", "Python", "FastAPI", "PostgreSQL"],
+      "icon": "fas fa-chart-line",
+      "color": "#FFE66D",
+      "image": "assets/images/projects/dashboard.jpg",
+      "links": {
+        "github": "https://github.com/yourusername/social-dashboard",
+        "demo": "https://demo.socialdashboard.com"
+      },
+      "featured": true,
+      "stats": {
+        "users": "3K+",
+        "platforms": "8",
+        "insights": "50+"
+      }
+    },
+    {
+      "title": "Weather Forecast App",
+      "description": "A beautiful weather application with detailed forecasts, interactive maps, and personalized weather alerts.",
+      "longDescription": "Developed a feature-rich weather app that provides accurate forecasts with stunning visualizations. Includes hourly and daily forecasts, radar maps, weather alerts, and location-based recommendations.",
+      "technologies": ["React Native", "Redux", "Weather API", "Maps SDK"],
+      "icon": "fas fa-cloud-sun",
+      "color": "#A8DADC",
+      "image": "assets/images/projects/weather.jpg",
+      "links": {
+        "github": "https://github.com/yourusername/weather-app",
+        "demo": "https://demo.weatherapp.com"
+      },
+      "featured": false,
+      "stats": {
+        "users": "20K+",
+        "accuracy": "98%",
+        "cities": "500K+"
+      }
+    },
+    {
+      "title": "Portfolio Builder",
+      "description": "A drag-and-drop portfolio builder that lets creatives showcase their work without coding knowledge.",
+      "longDescription": "Built an intuitive portfolio builder with customizable templates, drag-and-drop editor, and one-click deployment. Perfect for designers, photographers, and creative professionals.",
+      "technologies": ["Next.js", "TypeScript", "Prisma", "Vercel"],
+      "icon": "fas fa-briefcase",
+      "color": "#B19CD9",
+      "image": "assets/images/projects/portfolio-builder.jpg",
+      "links": {
+        "github": "https://github.com/yourusername/portfolio-builder",
+        "demo": "https://demo.portfoliobuilder.com"
+      },
+      "featured": false,
+      "stats": {
+        "users": "8K+",
+        "templates": "50+",
+        "portfolios": "12K+"
+      }
+    },
+    {
+      "title": "Fitness Tracking App",
+      "description": "A comprehensive fitness tracker with workout plans, nutrition tracking, and progress analytics.",
+      "longDescription": "Created a mobile-first fitness application that helps users achieve their health goals. Features workout logging, meal planning, progress photos, and community challenges.",
+      "technologies": ["Flutter", "Firebase", "ML Kit", "HealthKit"],
+      "icon": "fas fa-dumbbell",
+      "color": "#FF8B94",
+      "image": "assets/images/projects/fitness.jpg",
+      "links": {
+        "github": "https://github.com/yourusername/fitness-tracker",
+        "demo": "https://demo.fitnesstracker.com"
+      },
+      "featured": false,
+      "stats": {
+        "users": "25K+",
+        "workouts": "100K+",
+        "rating": "4.9/5"
+      }
+    }
+  ]
+}

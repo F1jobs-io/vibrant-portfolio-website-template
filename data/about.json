@@ -1,0 +1,41 @@
+{
+  "_instructions": "About section - tell your professional story and showcase key metrics that demonstrate your impact.",
+  "sectionTitle": "About Me",
+  "image": "assets/images/profile.jpg",
+  "paragraphs": [
+    "I'm a passionate full-stack developer and UI/UX designer with 6 years of experience creating exceptional digital experiences. My journey in tech started with building my first website at 16, and has evolved into a career focused on crafting innovative solutions that make a real impact on users' lives.",
+    "With expertise spanning React, Node.js, TypeScript, and modern design tools, I bring a holistic approach to every project. I've worked with startups and Fortune 500 companies, leading teams and shipping products used by millions. I believe in the power of clean code, intuitive design, and continuous learning.",
+    "When I'm not coding, you'll find me contributing to open source projects, mentoring junior developers, or exploring the latest in AI and web technologies. My approach combines technical excellence with creative problem-solving, always focusing on user experience and business impact."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "50+",
+      "label": "Projects Completed",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-code-branch",
+      "value": "2K+",
+      "label": "GitHub Commits",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-coffee",
+      "value": "∞",
+      "label": "Cups of Coffee",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-award",
+      "value": "10+",
+      "label": "Awards & Recognition",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Download Resume",
+    "href": "assets/files/resume.pdf",
+    "icon": "fas fa-download"
+  }
+}

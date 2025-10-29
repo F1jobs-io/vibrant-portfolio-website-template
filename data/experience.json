@@ -1,0 +1,57 @@
+{
+  "_instructions": "Experience section - showcase your professional work history with detailed responsibilities and achievements.",
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "Senior Full-Stack Developer",
+      "company": "TechVista Solutions",
+      "location": "San Francisco, CA",
+      "period": "Jan 2023 - Present",
+      "type": "Full-time",
+      "description": "Leading development of scalable web applications and mentoring junior developers.",
+      "responsibilities": [
+        "Architected and developed microservices using Node.js and React",
+        "Improved application performance by 40% through code optimization",
+        "Led a team of 5 developers in agile development practices",
+        "Implemented CI/CD pipelines reducing deployment time by 60%"
+      ],
+      "technologies": ["React", "Node.js", "MongoDB", "AWS", "Docker"],
+      "icon": "fas fa-laptop-code",
+      "color": "#FF6B6B"
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Creative Digital Agency",
+      "location": "New York, NY",
+      "period": "Jun 2021 - Dec 2022",
+      "type": "Full-time",
+      "description": "Developed responsive web applications for diverse clients across industries.",
+      "responsibilities": [
+        "Built 20+ responsive websites using modern frontend frameworks",
+        "Collaborated with designers to implement pixel-perfect UIs",
+        "Optimized website performance achieving 95+ Lighthouse scores",
+        "Mentored 3 junior developers on best practices"
+      ],
+      "technologies": ["React", "Vue.js", "TypeScript", "Sass", "Webpack"],
+      "icon": "fas fa-code",
+      "color": "#4ECDC4"
+    },
+    {
+      "title": "Web Developer",
+      "company": "StartUp Labs",
+      "location": "Austin, TX",
+      "period": "Jan 2019 - May 2021",
+      "type": "Full-time",
+      "description": "Contributed to building MVP products for early-stage startups.",
+      "responsibilities": [
+        "Developed full-stack features for 5 different startup projects",
+        "Implemented RESTful APIs and integrated third-party services",
+        "Participated in daily standups and sprint planning",
+        "Fixed bugs and improved code quality through peer reviews"
+      ],
+      "technologies": ["JavaScript", "Python", "Django", "PostgreSQL", "Git"],
+      "icon": "fas fa-lightbulb",
+      "color": "#FFE66D"
+    }
+  ]
+}

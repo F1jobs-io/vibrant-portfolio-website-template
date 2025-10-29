@@ -1,0 +1,103 @@
+{
+  "_instructions": "Education section - showcase your academic background and professional certifications.",
+  "sectionTitle": "Education",
+  "certificationsTitle": "Certifications & Awards",
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "period": "2017 - 2019",
+      "description": "Specialized in Software Engineering and Artificial Intelligence. Graduated with honors.",
+      "achievements": [
+        "GPA: 3.9/4.0",
+        "Dean's List (4 semesters)",
+        "Thesis: Machine Learning for Web Optimization",
+        "Teaching Assistant for Data Structures course"
+      ],
+      "icon": "fas fa-graduation-cap",
+      "color": "#FF6B6B"
+    },
+    {
+      "degree": "Bachelor of Science in Information Technology",
+      "institution": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "period": "2013 - 2017",
+      "description": "Focused on web technologies and software development. Active member of Computer Science Club.",
+      "achievements": [
+        "GPA: 3.7/4.0",
+        "President of Coding Club (2016-2017)",
+        "Won University Hackathon 2016",
+        "Participated in ACM programming competitions"
+      ],
+      "icon": "fas fa-university",
+      "color": "#4ECDC4"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "credentialId": "AWS-CSA-2023-12345",
+      "icon": "fab fa-aws",
+      "color": "#FF9900"
+    },
+    {
+      "title": "Google Cloud Professional Developer",
+      "issuer": "Google Cloud",
+      "date": "2022",
+      "credentialId": "GCP-PD-2022-67890",
+      "icon": "fab fa-google",
+      "color": "#4285F4"
+    },
+    {
+      "title": "MongoDB Certified Developer",
+      "issuer": "MongoDB University",
+      "date": "2022",
+      "credentialId": "MDB-DEV-2022-54321",
+      "icon": "fas fa-leaf",
+      "color": "#47A248"
+    },
+    {
+      "title": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2021",
+      "credentialId": "PSM-I-2021-98765",
+      "icon": "fas fa-certificate",
+      "color": "#009FDA"
+    },
+    {
+      "title": "React Advanced Certification",
+      "issuer": "Meta",
+      "date": "2021",
+      "credentialId": "META-REACT-2021-11111",
+      "icon": "fab fa-react",
+      "color": "#61DAFB"
+    },
+    {
+      "title": "Cyber Security Fundamentals",
+      "issuer": "IBM",
+      "date": "2020",
+      "credentialId": "IBM-CS-2020-22222",
+      "icon": "fas fa-shield-alt",
+      "color": "#0F62FE"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Developer of the Year",
+      "organization": "TechVista Solutions",
+      "year": "2023",
+      "description": "Recognized for outstanding contribution to company projects and innovation.",
+      "icon": "fas fa-trophy"
+    },
+    {
+      "title": "Innovation Award",
+      "organization": "Creative Digital Agency",
+      "year": "2021",
+      "description": "Awarded for developing a groundbreaking solution that improved client satisfaction by 40%.",
+      "icon": "fas fa-lightbulb"
+    }
+  ]
+}

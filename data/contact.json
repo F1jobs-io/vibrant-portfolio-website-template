@@ -1,0 +1,114 @@
+{
+  "_instructions": "Contact section - provide ways for people to reach you and configure the contact form fields.",
+  "sectionTitle": "Get In Touch",
+  "subtitle": "Have a project in mind or just want to say hello? I'd love to hear from you!",
+  "contactInfo": [
+    {
+      "type": "email",
+      "label": "Email",
+      "value": "alex.rivera@example.com",
+      "href": "mailto:alex.rivera@example.com",
+      "icon": "fas fa-envelope",
+      "color": "#FF6B6B"
+    },
+    {
+      "type": "phone",
+      "label": "Phone",
+      "value": "+1 (415) 789-0123",
+      "href": "tel:+14157890123",
+      "icon": "fas fa-phone",
+      "color": "#4ECDC4"
+    },
+    {
+      "type": "location",
+      "label": "Location",
+      "value": "San Francisco, CA",
+      "href": "https://maps.google.com/?q=San+Francisco,CA",
+      "icon": "fas fa-map-marker-alt",
+      "color": "#FFE66D"
+    },
+    {
+      "type": "linkedin",
+      "label": "LinkedIn",
+      "value": "/in/alexrivera-dev",
+      "href": "https://linkedin.com/in/alexrivera-dev",
+      "icon": "fab fa-linkedin",
+      "color": "#0077B5"
+    }
+  ],
+  "form": {
+    "action": "https://formspree.io/f/your-form-id",
+    "method": "POST",
+    "submitText": "Send Message",
+    "submitIcon": "fas fa-paper-plane",
+    "successMessage": "Thanks for reaching out! I'll get back to you soon.",
+    "errorMessage": "Oops! Something went wrong. Please try again.",
+    "fields": [
+      {
+        "name": "name",
+        "type": "text",
+        "label": "Your Name",
+        "placeholder": "John Doe",
+        "required": true,
+        "icon": "fas fa-user"
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "label": "Your Email",
+        "placeholder": "john@example.com",
+        "required": true,
+        "icon": "fas fa-envelope"
+      },
+      {
+        "name": "subject",
+        "type": "text",
+        "label": "Subject",
+        "placeholder": "Project Inquiry",
+        "required": true,
+        "icon": "fas fa-tag"
+      },
+      {
+        "name": "message",
+        "type": "textarea",
+        "label": "Message",
+        "placeholder": "Tell me about your project or just say hello...",
+        "required": true,
+        "rows": 6,
+        "icon": "fas fa-comment"
+      }
+    ]
+  },
+  "socialMedia": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/alexrivera",
+      "icon": "fab fa-github",
+      "color": "#333"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/alexrivera-dev",
+      "icon": "fab fa-linkedin",
+      "color": "#0077B5"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/alexrivera_dev",
+      "icon": "fab fa-twitter",
+      "color": "#1DA1F2"
+    },
+    {
+      "platform": "Dribbble",
+      "url": "https://dribbble.com/alexrivera",
+      "icon": "fab fa-dribbble",
+      "color": "#EA4C89"
+    },
+    {
+      "platform": "Behance",
+      "url": "https://behance.net/alexrivera",
+      "icon": "fab fa-behance",
+      "color": "#1769FF"
+    }
+  ]
+}
