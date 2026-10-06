@@ -14,8 +14,8 @@
     {
       "type": "phone",
       "label": "Phone",
-      "value": "+1 (415) 789-0123",
-      "href": "tel:+14157890123",
+      "value": "+1 (555) 789-0123",
+      "href": "tel:+15557890123",
       "icon": "fas fa-phone",
       "color": "#4ECDC4"
     },
